@@ -162,7 +162,7 @@ export default function App() {
                 />
               </svg>
             </div>
-            <h2 className="welcome__heading">Hi there! I'm Aditya's AI assistant.</h2>
+            <h2 className="welcome__heading">Hi there! I'm Aaditya's AI assistant.</h2>
             <p className="welcome__text">
               I can answer questions about skills, projects, work experience,
               education, and more — all based on the resume. Try one of these
