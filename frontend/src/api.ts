@@ -1,4 +1,9 @@
-const API_BASE = import.meta.env.VITE_API_URL ?? "/api";
+const RENDER_BACKEND_URL = "https://portfolio-chatbot-yu0s.onrender.com";
+
+const API_BASE =
+  import.meta.env.VITE_API_URL ||
+  (import.meta.env.DEV ? "/api" : RENDER_BACKEND_URL);
+
 
 export async function streamChat(
   question: string,

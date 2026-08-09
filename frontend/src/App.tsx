@@ -80,7 +80,7 @@ export default function App() {
             ? {
                 ...m,
                 content:
-                  "Sorry, I couldn't reach the server. Make sure the backend is running on port 8000.",
+                  "Sorry, I couldn't reach the server. Please make sure the backend is live and accessible.",
                 isStreaming: false,
               }
             : m
