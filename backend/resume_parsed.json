@@ -1,0 +1,54 @@
+{
+  "name": "Aaditya Raj",
+  "email": "adityajnvbanka15@gmail.com",
+  "phone": "+91 9508933499",
+  "location": "Lucknow, India",
+  "summary": "Computer Science undergraduate student at Sitare University with experience in Full-Stack Web Development, AI/ML applications, and Python/Django backend systems.",
+  "skills": [
+    "Python", "Java", "JavaScript", "TypeScript",
+    "Django", "FastAPI", "React", "Tailwind CSS", "Node.js", "Express.js", "Redux Toolkit", "Flask",
+    "MySQL", "MongoDB", "SQLite",
+    "Linux", "Git", "GitHub", "NumPy", "Pandas", "Matplotlib", "BeautifulSoup", "Celery", "LangSmith", "OpenAI"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech, Computer Science",
+      "institution": "Sitare University with SRMU, Lucknow, India",
+      "graduation_year": 2027,
+      "cgpa": 6.03
+    }
+  ],
+  "experience": [],
+  "projects": [
+    {
+      "name": "SmartDwell",
+      "description": "Built a modern real estate platform built with React and TypeScript, designed to help users find, explore and analyze properties with intelligent insights and AI-powered assistance.",
+      "technologies": ["React", "Tailwind CSS", "TypeScript"]
+    },
+    {
+      "name": "InterviewIQ.AI",
+      "description": "Developed a full-stack AI-powered interview preparation platform that helps users practice job interviews with intelligent question generation and real-time performance evaluation.",
+      "technologies": ["React", "Redux Toolkit", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "JWT", "OpenRouter"]
+    },
+    {
+      "name": "CryptoViz",
+      "description": "Built a web-based dashboard to analyse cryptocurrency trends. Implemented features to track price history, volatility rates, and market performance. Integrated APIs for Realtime crypto data visualization with interactive charts and graphs.",
+      "technologies": ["Flask", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "BugFixTutor",
+      "description": "A responsive web application designed to help debug python code errors using an AI-powered solution. It provides detailed error explanations and suggested fixes.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Python", "Django"]
+    },
+    {
+      "name": "Ai Research System",
+      "description": "Built a Django-based REST API system for conducting AI-powered research with file upload capabilities, cost tracking, and research continuation features.",
+      "technologies": ["Python", "Django", "Django REST API", "LangSmith", "Celery", "SQLite", "OpenAI"]
+    }
+  ],
+  "certifications": [
+    "100% B.Tech CS Scholarship, Sitare Foundation (Oct 2024 - Present)"
+  ],
+  "languages": ["English", "Hindi"],
+  "total_experience": 0
+}
